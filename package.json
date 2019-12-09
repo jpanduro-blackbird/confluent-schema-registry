@@ -22,7 +22,7 @@
     "lint": "eslint ./src/**/*.ts"
   },
   "dependencies": {
-    "avsc": ">= 5.4.13 < 6",
+    "avsc": ">= 5.4.16 < 6",
     "mappersmith": ">= 2.30.1 < 3"
   },
   "devDependencies": {
